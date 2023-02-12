@@ -1,0 +1,7 @@
+3 block tall cover
+avoid block clipping
+block clutch(1/2)
+block tower(1/2/3 block high)
+sideways block clutch by wall
+stairing up
+ 

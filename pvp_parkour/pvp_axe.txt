@@ -1,0 +1,9 @@
+---------------------------------------------------------------(with shield pvp)
+autocrit - spam click attack button while holding shield towards enemy
+stunning - disabling shield and instantly hitting them
+backstab - instantaneous jump behind/sideways the enemy landing a crit
+shield-melee - releasing shield with sword attack and holding shield again
+crit-shield-melee - shield-melee with critical attack
+
+---------------------------------------------------------------
+when a armed shield is hit by an axe then its gets disabled for 5 secs

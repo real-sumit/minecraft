@@ -1,0 +1,9 @@
+drinking/splashing water breathing potion
+getting respiration enchantment on helmet (max_level = 3)
+placing doors or gates
+sneaking on a magma block or soul sand
+boxing in a hole 
+    - placing (button, lever, cobweb, string, torch, pressure plate, carpet, all_vines, redstone_dust, tripwire_hook)
+    - digging in some direction and blocking water
+spamming right click with water bucket
+swimming position while holding sneak or sleeping on bed underwater

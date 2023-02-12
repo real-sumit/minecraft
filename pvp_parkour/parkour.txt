@@ -1,0 +1,10 @@
+4 block jump
+headhitters
+neos
+double neos
+triple neos
+slime block jump
+
+vines jump
+ladder jump
+honey block jump

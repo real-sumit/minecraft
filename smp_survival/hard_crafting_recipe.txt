@@ -1,0 +1,48 @@
+compass
+spyglass
+lead
+clock
+arrow
+crossbow
+recovery compass
+sea lantern 
+jack o lantern 
+sugar
+book and quill
+music disc
+loom
+armor stand
+rabbit stew
+cookie 
+soul torch
+empty map
+pumpkin pie
+firework rocket
+honey bottle
+banner pattern
+grindstone
+detector rail
+activator rail
+painting 
+campfire 
+firecharge
+soul campfire
+cake
+end rod
+beetroot soup
+jukebox
+magma cream
+lodestone
+powered rail
+dropper
+noteblock
+redstone comparator
+observer 
+redstone lamp
+redstone repeater
+piston
+target 
+sticky piston
+daylight detector
+dispenser
+tripwire hook

@@ -1,0 +1,14 @@
+drinking/splashing fire resistance potion 
+eating enchanted golden apple 
+popping a totem 
+
+---------------------------------------------------------------delay death
+eating golden apple 
+eating high saturation foods (golden_carrot, steak, cooked_porkchop, mushroom_stew)
+losing saturation by jumping fast (to eat more food and regenerate)
+
+---------------------------------------------------------------dropping into lava
+digging down
+placing doors under lava
+placing (ladders, vines, glow_litchen) under lava
+jumping and placing boat on lava

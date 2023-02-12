@@ -1,0 +1,25 @@
+---------------ways to die
+cactus
+sweet berries
+dragon's breadth
+kinetic energy
+world border
+starving
+lightning
+wither effect(wither skeleton,wither rose,wither)
+drowning
+fire damage(flint and steel,lava)
+
+poison(cave spider,bee,pufferfish,dispensed poison potions)
+powder snow
+suffocation
+stalagtite
+stalagmite
+anvil
+
+fall damage
+dispensed arrows/harming arrows/firework rockets
+potion of harming
+explosion(tnt,tnt minecarts,crystal,bed,respawn anchor)
+entity cramming
+void

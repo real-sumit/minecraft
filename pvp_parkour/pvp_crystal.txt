@@ -1,0 +1,19 @@
+double tap - place an obsidian and crystal two times (pop 2 totems of opponent sometimes)
+hit crystal - hit with sword and crystal instantaneously
+butterfly crystal - repeating crystals before enemy hit the ground
+rainbow anchor - anchor to blow opponent in air and crystal instantaneously
+
+---------------------------------------------------------------
+(buffs: strength II, speed II)
+(debuffs: slowfalling, slowness IV, weakness)
+(other: turtlemaster)
+
+player is immune to melee damage and knockback during fire damage and pearl damage
+popping totem clears previous potion effects
+arrow priority starts from hotbar, but in inventory it is prioritized left to right, top to bottom
+player having weakness effect cannot break crystal with hand or with some other items
+    - strength potion can counter it
+    - crystal can be broken with sword
+while in air its better to hold on your hotbar totem while crystal pvp
+    - avoids getting double tapped
+jumping while opponent is trying to hit crystal can save you a totem

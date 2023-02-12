@@ -1,0 +1,37 @@
+grab food and 8 iron(make a pickaxe, flint and steel, waterbucket, shield)
+find a lava pool and make a portal
+
+find a bastion(using microlensing e-counter)
+get a pearl trade and keep rest of the gold
+find a fortress(spawner x-ray) and get atleast 8 blaze rods
+blind travel 
+
+collect a stack of log, 54 obsidian, 2 stacks of leaves and a turtle egg
+find a big cave on your way to stronghold (using microlensing c-counter)
+get 36 diamonds, 32 blocks of lapis and extra gold and iron
+head to the library and get 2 stack of books
+make an enchanting table and a diamond pickaxe
+enchant diamond pickaxe with silk touch and efficiency 2
+make a nether portal
+
+gold farm tutorial (https://www.youtube.com/watch?v=uBpMwXVn6iY&t=512s)
+    - find a nether waste biome and go to y level 118
+    - mine 32 by 32, 2 block height area
+    - make a portal in between where the four chunks intersect
+    - make a safe area for the turtle egg as shown in the video
+    - make a staircase up and mine 32 by 32, 2 block height area leaving one block gap in the middle
+    - in each corner of the spawning area(second layer) create 2x2 hole and cover the hole with trapdoors
+    - place the turtle egg and cover it with trapdoor 
+    - go above bedrock ceiling and start towering up at nether portal coords to y level 245
+    - make the killing chamber as shown in the video
+    - go through the killing chamber portal and break the portal
+    - tower at 8x coords in overworld and go to y level 310
+    - make a portal and make another portal leaving 9 blocks in between 
+
+use chunk mining to get ancient debris(atleast 8 ingots)
+make few fletchers to get emeralds
+make a farmer to get apples
+make 2 clerics to get xp bottles and pearls
+make a librarian to get mending
+
+now find a pillager outpost and raid villages to get totems

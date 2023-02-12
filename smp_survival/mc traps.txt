@@ -1,0 +1,88 @@
+overworld-----------------
+caves---------------------
+underwater----------------
+nether--------------------
+nether_roof---------------
+end-----------------------
+void----------------------
+
+--------------------------(in consideration that u have everything)
+
+****powder snow
+-piston powder snow						            water bucket/chorus fruit
+
+****suffocation
+-sand/gravel suffocation trap					    shovel&gapples/chorus fruit
+
+****stalagmite
+-dripstone trap							            pearl/chorus fruit/totem/boat
+
+****stalagtite
+-dripstone cannon							        totem/pearl
+
+****anvil
+-damaged anvil trap						            water bucket/cobweb
+
+------------------------------------------------------------------------------------------
+****fall damage
+-fake dropper(blue stained glass in case of water)		    pearl/totem
+-dropper(redstone timer auto bone meal tree/mushroom)		pearl/totem
+
+****dispensed arrows/harming arrows/firework rockets
+-harming arrows & armorstands(dispenser)			
+-splash potion of harming II & armorstands(dispenser)	
+-firework rockets & armorstands(dispenser)		
+
+****poison(pufferfish)
+-pufferfish behind blocks on four sides				        pickaxe>pearl
+
+****explosion
+-rigged tnt under base
+-cobweb + tnt							                    pearl
+-tnt minecarts above scaffolding				            totem>pearl
+-tnt under bed							                    totem>pearl
+-minecart tnt							                    totem>pearl
+-tries to crystal in obsidian box				            blocks/totem
+
+****entity cramming
+-fishes & armorstands(dispenser)		
+-minecarts & armorstands(dispenser)	
+-mobs (spawner)                                             water_bucket
+
+****void
+-crafting table & button void trap				water_bucket/chorus_fruit
+-crafting table & sign void trap				chorus fruit
+-crafting table & fence gate void trap			chorus fruit
+
+
+****ton of mobs in obsidian box
+-warden
+-ravanger
+-piglins
+-cave spider
+-iron golem trap
+-pufferfish
+
+-channeling trident on lightning rod
+-nether portal lava trap					        pearl>pickaxe/lava bucket>pickaxe
+-lava at end spawn						            pearl/stair up with block
+-tnt minecarts at end spawn(3 blocks top)			totems
+-piston moved honey comb blocks
+-spawn point under end portal
+-nether portal obsidian trap(ambush with swords)	pearl
+-nether roof top trap						        flint and steel/fire charge/lava>planks
+-obsidian box trap giving mining fatigue			withers
+-back and forth moving box trap				        end crystal/respawn anchors/tnt/tnt minecarts
+-sudden ambush							            invisibility potion
+-sandwall trap and ambush					        pearl>block/chorus fruit
+
+---------------------------------------------------------------into trap
+-sand/gravel layer above signs
+-instamine blocks / spleef
+-using pistons
+-pressure plate
+-doors
+-observers(redstone ore,bed,breaking block)
+-string and tripwire hook
+-comparator signals(lecturn,item frame,cauldron,trapped chest,furnace,cake)
+-pufferfish player detector

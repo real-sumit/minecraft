@@ -1,0 +1,4 @@
+cobweb - temporary freezing enemy's movement
+lava - dealing fire damage
+web bubble - forcing yourself in cobweb to heal when enemy is close
+draining - stealing enemy's water by placing lava on cobweb while opponent places water
