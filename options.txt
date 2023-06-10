@@ -111,7 +111,7 @@ key_key.hotbar.4:key.keyboard.c
 key_key.hotbar.5:key.keyboard.b
 key_key.hotbar.6:key.keyboard.g
 key_key.hotbar.7:key.keyboard.4
-key_key.hotbar.8:key.keyboard.v
+key_key.hotbar.8:key.keyboard.k
 key_key.hotbar.9:key.keyboard.d
 soundCategory_master:0.32450331125827814
 soundCategory_music:0.5023474178403756

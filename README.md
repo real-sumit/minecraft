@@ -1,4 +1,8 @@
 
+# Minecraft Settings
+
+This Repository contains files of minecraft configuration, resource packs and links to mod packs that I use:
+
 # Client
 
 - [Fabric](https://fabricmc.net/use/installer/)
@@ -14,7 +18,3 @@
 - [ShulkerBoxTooltip](https://www.curseforge.com/minecraft/mc-mods/shulkerboxtooltip)
 - [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium)
 - [ReplayMod](https://www.replaymod.com/)
-
-# DataPack
-
-- [ShulkerBoxPreviewer](https://tryashtar.github.io/shulker-preview/)
