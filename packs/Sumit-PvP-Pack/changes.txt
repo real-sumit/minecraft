@@ -1,0 +1,6 @@
+Low Fire
+No Smoke Particles
+No Explosion Effect
+Smaller Totem Pop Animation
+Low Shield
+No Carved Pumpkin Overlay

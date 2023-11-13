@@ -3,12 +3,13 @@
 
 This Repository contains files of minecraft configuration, resource packs and links to mod packs that I use:
 
-# Client
+# Resource Packs
+- [FullBright](https://texture-packs.com/resourcepack/fullbright/)
 
+# Client
 - [Fabric](https://fabricmc.net/use/installer/)
 
 # Mods
-
 - [FabricAPI](https://www.curseforge.com/minecraft/mc-mods/fabric-api/files)
 - [ArmorHUD](https://www.curseforge.com/minecraft/mc-mods/berdinskiybears-armor-hud)
 - [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin)
