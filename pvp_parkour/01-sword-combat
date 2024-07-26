@@ -1,14 +1,15 @@
 ---------------------------------------------------------------(without shield pvp)
-crits (critical_attack) - strong attack landed with jump or drop
-p-crits (punish_critical_attack) - landing crit while dropping after ememy blows you into the air
-hitselect - letting you opponent hit you first, and hit them back when you are in air (while holding down W)
-combos - strong attack with sprint reseting
-s-tap - after every hit you let go off W and press S instantly
+sweep_attack - attacking while walking, standing or crouching
+critical_attack (crits) - strong attack landed while dropping and not sprinting (due to jump, fall or knockback dealt by other player)
+sprint_reset_attack (w-tap) - strong attack landed immediately after stopping sprinting (this attack deals the most knockback)
+                    (s-tap) - after every hit you let go off W and press S instantly
+
+punish_critical_attack (p-crits) - landing crit while dropping after ememy blows you into the air
+double_critting - critting opponent and p-critting as your opponent blows you up in air 
+crit_chaining - landing crit continuously on every jump
+combos - continuous strong attack with sprint reseting
 upper-cut combo - you have to hit your opponent as you are jumping and instantly press S
 sprint-cut combo - hitting your opponent is you are falling down and let go off W before you hit
-crit chain - landing crit on every jump
-jump reseting - pressing jump on the exact time when opponent hits to barely take any knockback
 
----------------------------------------------------------------
-you can not hit crits while sprinting
-sprint reseting is the best way to deal most knockback
+jump reseting - pressing jump on the exact time when opponent hits you to barely take any knockback
+hitselect - letting you opponent hit you first, and hit them back when you are in air (while holding down W)
